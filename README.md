@@ -29,7 +29,7 @@ $ git clone https://github.com/storbox-io/storbox-ce.git
 $ git submodule update --init --recursive
 ```
 
-For the full story, start to read the developer's documentation.
+For the full story, start to read the [developer's documentation](https://github.com/storbox-io/contribute).
 
 ## Support
 
