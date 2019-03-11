@@ -1,0 +1,15 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/storbox-io/core.git
+[submodule "web-ui"]
+	path = web-ui
+	url = https://github.com/storbox-io/web-ui.git
+[submodule "sftp"]
+	path = sftp
+	url = https://github.com/storbox-io/sftp.git
+[submodule "samba"]
+	path = samba
+	url = https://github.com/storbox-io/samba.git
+[submodule "ftps"]
+	path = ftps
+	url = https://github.com/storbox-io/ftps.git

@@ -1,0 +1,19 @@
+{
+  "name": "storbox-ce",
+  "version": "1.0.0",
+  "description": "storBox Community Edition - An easy to use cloud storage platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/storbox-io/storbox-ce.git"
+  },
+  "author": "Alexander Mandera",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/storbox-io/storbox-ce/issues"
+  },
+  "homepage": "https://github.com/storbox-io/storbox-ce#readme"
+}
