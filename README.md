@@ -1,6 +1,6 @@
 ## storBox
 
-[![Discord](https://discordapp.com/api/guilds/540992211957972992/embed.png)](https://discord.gg/f3cgtYs) ![License](https://img.shields.io/github/license/storbox-io/storbox-ce.svg) ![Version](https://img.shields.io/github/package-json/v/storbox-io/storbox-ce.svg)
+[![Discord](https://discordapp.com/api/guilds/540992211957972992/embed.png)](https://discord.gg/f3cgtYs) ![License](https://img.shields.io/badge/License-AGPL--3.0-Green.svg) ![Version](https://img.shields.io/github/package-json/v/storbox-io/storbox-ce.svg)
 
 ![Logo](https://puu.sh/CYnNQ/92bdb1740f.png)
 
@@ -29,7 +29,7 @@ $ git clone https://github.com/storbox-io/storbox-ce.git
 $ git submodule update --init --recursive
 ```
 
-For the full story, start to read the developer's documentation.
+For the full story, start to read the [developer's documentation](https://github.com/storbox-io/contribute).
 
 ## Support
 
