@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/storbox-io/storbox-ce/issues"
   },
-  "homepage": "https://github.com/storbox-io/storbox-ce#readme"
+  "homepage": "https://github.com/storbox-io/storbox-ce#readme",
+  "dependencies": {
+    "storbox-core": "file:core",
+    "storbox-ftps": "file:ftps",
+    "storbox-samba": "file:samba",
+    "storbox-sftp": "file:sftp",
+    "storbox-webui": "file:web-ui"
+  }
 }
